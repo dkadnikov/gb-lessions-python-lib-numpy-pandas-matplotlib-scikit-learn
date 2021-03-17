@@ -1,1 +1,2 @@
-# gb-lessions-python-lib-numpy-pandas-matplotlib-scikit-learn
+# gb-lessions
+Курс "Библиотеки Python для Data Science: Numpy, Matplotlib, Scikit-learn"
